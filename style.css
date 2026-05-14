@@ -1,0 +1,15 @@
+/* Ajusta a largura da barra lateral (sidebar) */
+  .sidebar {
+    width: 300px; /* Altere para o valor desejado */
+  }
+
+/* Ajusta a margem do conteúdo para não sobrepor o menu */
+  .quarto-sidebar-toggle {
+    left: 300px;
+  }
+
+@media (min-width: 992px) {
+  #quarto-content.quarto-container {
+  grid-template-columns: 300px 1fr; /* O primeiro valor deve ser igual à largura da sidebar */
+}
+}

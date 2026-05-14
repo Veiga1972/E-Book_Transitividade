@@ -1,0 +1,71 @@
+# Preâmbulo Geral
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "**Metodologia da Transitividade Aplicada nas Escolas do Ensino Médio (*E-book*)**"
+  subtitle: "**[Guia Prático Para Produção de Vídeos Documentais]**"
+  date: "08/21/2025"
+  author:
+    name: João Batista Figueiredo Veiga
+    orcid: 0000-0001-7262-3336
+    corresponding: TRUE
+    affiliation:
+        name: Professor de Sociologia/SEDUC-PA
+        url: joao.veiga@detran.pa.gov.br
+  page-footer:
+    left: |
+      Was Written by (**VEIGA, J.B.F - 2026**).
+    right: |
+      SEDUC-PA.
+  cover-image: fig11.jpg
+  favicon: capa1.jpg
+  repo-url: https://github.com/MarioDhiego
+  repo-subdir: book
+  repo-branch: main                      # master
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, linkedin]
+  downloads: [pdf, docx]
+  page-navigation: TRUE
+  reader-mode: TRUE
+  sidebar:
+        search: TRUE
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - cap1.qmd
+    - cap2.qmd
+    - cap3.qmd
+    - cap4.qmd
+    - cap5.qmd
+    - cap6.qmd
+    - references.qmd
+
+bibliography: references.bib
+format:
+  html:
+    toc-title: SUMÁRIO
+    toc-location: right
+    number-sections: TRUE
+    theme:
+      light: cosmo
+      dark:  superhero
+    code-fold: TRUE
+    code-tools: FALSE
+    code-link: TRUE
+  pdf:
+    documentclass: scrreport
+  epub:
+    cover-image: cover.png
+abstract: ""
+
+
+
+
+
+
+
+
+
+

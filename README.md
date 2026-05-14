@@ -1,2 +1,2 @@
-# E-Book_Transitividade
-script em linguagem de programação R para visuslizar um quarto book
+# Ebook_Transversalidade
+script em linguagem R para repositório
