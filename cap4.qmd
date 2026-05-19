@@ -33,14 +33,14 @@ Esse movimento aparece como um momento de aproximação e escuta, coerente com o
 
 ### Exemplos de Perguntas Problematizadoras
 
--   O que mais incomoda vocês na escola ou no bairro?
--   Que situações todo mundo vê, mas quase ninguém discute?
--   Se vocês pudessem denunciar, explicar ou conscientizar sobre algo em 1 minuto, o que seria?
--   Que tipo de vídeo vocês consomem nas redes sociais que prende mais atenção?
+- Como podemos olhar para a nosssa escola sobre outra perspectiva?
+- Como podemos observar no bairro onde vivemos situações que mais icomodam as pessoas? 
+- Quais outras situações seriam mais importantes?
+
 
 ### Exemplo de Atividade em Sala
 
-Cada aluno escreve em um post-it ou formulário:
+Cada equipe escreve em um post-it ou formulário:
 
 1.  um problema que observa;
 2.  uma pergunta que gostaria de investigar;
@@ -74,32 +74,31 @@ Esse momento prepara os estudantes para observar criticamente seu contexto antes
 
 ### Exemplos de Perguntas Problematizadoras
 
--   O que mais incomoda vocês na escola ou no bairro?
--   Que situações todo mundo vê, mas quase ninguém discute?
--   Se vocês pudessem denunciar, explicar ou conscientizar sobre algo em 1 minuto, o que seria?
--   Que tipo de vídeo vocês consomem nas redes sociais que prende mais atenção?
+- Quais situações observadas seriam mais importantes para discussão?
+- Se vocês pudessem denunciar, explicar ou conscientizar sobre algo em 1 minuto, o que escolheriam?
+- Qual tipo de vídeo seria mais adequado para visualização desse conteúdo educativos nas redes sociais?
 
-### Exemplo de Atividade Prática
+### Exemplo de temática que pode surgir
 
-Se o tema for lixo no entorno da escola, os alunos podem observar:
+Caso o tema surgido do diálogo com a realidade seja "lixo no entorno da escola", os alunos poderão realizar a seguinte atividade prática:
 
--   onde há mais lixo acumulado;
--   em quais horários isso acontece;
--   se há lixeiras suficientes;
--   quem é responsabilizado pelo problema;
--   como moradores ou estudantes percebem essa situação.
+- Onde há mais lixo acumulado.
+- Em quais horários isso acontece.
+- Se há lixeiras suficientes.
+- Quem é responsabilizado pelo problema.
+- Como moradores ou estudantes percebem essa situação.
 
 ### Sugestão de Recurso
 
 Use uma ficha simples de observação com três colunas:
 
--   o que vimos?;
--   por que isso acontece?;
+-   o que vimos?
+-   por que isso acontece?
 -   que pergunta isso gera?
 
 ### Produto Esperado
 
--   Registro de observações e primeiras hipóteses.
+-   Registro das observações relizadas e primeiras hipóteses.
 
 ::::: {.content-visible when-format="html"}
 :::: progress
@@ -111,14 +110,13 @@ Use uma ficha simples de observação com três colunas:
 ## Investigação da Área de Estudo
 
 É o momento de construir o levantamento preliminar do tema escolhido de modo mais sistemático.
-
 O professor dialoga com os alunos sobre a coleta inicial de relatos, cenas, imagens e falas significativas. Trata-se da primeira etapa da investigação temática, quando ocorre o levantamento preliminar da realidade estudada.
 
-Os estudantes definem o que querem descobrir, quem pretendem entrevistar e em quais espaços realizarão as filmagens.
+Os estudantes definem o que querem descobrir, quem pretendem entrevistar e em quais espaços realizarão as filmagens. Conforme Freire (2023) se o seu pensar é ingênuo, será pensando o seu pensar na ação, que ele mesmo se superará. E a sua superação não se faz no ato de consumir ideias, mas no ato de produzi-las e de transformá-las na ação e na comunicação.
 
 ![](fig5.jpg){fig-align="center" width="40%"}
 
-### Exemplo de Temática
+### Exemplo de Temática que pode surgir do diálogo com os alunos
 
 “As dificuldades de mobilidade que os alunos enfrentam para chegar à escola”.
 
@@ -132,7 +130,7 @@ Os estudantes definem o que querem descobrir, quem pretendem entrevistar e em qu
 
 ### Produto Esperado
 
--   Um dossiê inicial do tema com anotações, fotos, falas e perguntas.
+-   Um relatório inicial do tema com anotações, fotos, falas, perguntas e as respostas mais significativas.
 
 ::::: {.content-visible when-format="html"}
 :::: progress
@@ -142,39 +140,34 @@ Os estudantes definem o que querem descobrir, quem pretendem entrevistar e em qu
 :::::
 
 ## Codificação das Experiências Sociais
+É o momento de transformar situações reais em materiais de registro: fotos, áudios, vídeos, entrevistas, registros de conversas informais e cenas do cotidiano. De acordo com a concepção freiriana, a codificação consiste em registrar aspectos da realidade para que posteriormente eles possam ser analisados. 
+Essa é a fase da captação de “retratos” da realidade, onde as equipes escolherão algumas das contradições identificadas, com as quais serão elaboradas as codificações para servir a investigação temática. Estas devem representar situações conhecidas pelos alunos cuja temática se busca, possibilitando que nelas se reconheçam.
 
-É o momento de transformar situações reais em materiais de registro: fotos, áudios, vídeos, entrevistas e cenas do cotidiano.
-
-De acordo com a concepção freiriana, a codificação consiste em registrar aspectos da realidade para que posteriormente eles possam ser analisados. Essa é a fase da captação de “retratos” da realidade.
+Na medida em que representam situações existenciais, as codificações devem ser simples na sua complexidade e oferecer possibilidades plurais de análises na sua descodificação.
 
 ![](fig1.jpg){fig-align="center" width="40%"}
 
-O professor, juntamente com os alunos, apresenta noções básicas como:
-
--   técnicas de enquadramento;
--   plano aberto, médio e close;
--   captação de áudio;
--   iluminação;
--   gravação vertical ou horizontal para Reels, TikTok e Shorts;
+O professor, juntamente com os alunos, discutem as noções básicas de:
+-   técnicas de enquadramento, plano aberto, médio e close;
+-   captação de áudio e iluminação;
+-   gravação vertical ou horizontal para You tube, Reels, TikTok, Shorts;
 -   autorização de imagem em entrevistas gravadas.
 
-### Atividades que as Equipes Podem Realizar
-
+### Atividades que as equipes podem realizar
 -   coletar opiniões de colegas;
 -   registrar a chegada dos alunos;
 -   realizar enquetes sobre riscos identificados no trajeto;
 -   fotografar e filmar vias do bairro, ciclovias, faixas de pedestres e pontos de ônibus;
 -   registrar o trânsito no entorno da escola.
 
-### Exemplos de Gravações
-
+### Exemplos de gravações
 -   alunos nos pontos de ônibus;
 -   alunos utilizando bicicletas nas ciclofaixas;
 -   entrevistas curtas com estudantes;
 -   cenas de deslocamento de pedestres;
 -   fala em off com dados ou reflexões.
 
-### Modelo de Vídeo-Denúncia em 45 Segundos
+### Modelo de vídeo em 60 segundos
 
 1.  abertura com pergunta forte;
 2.  cenas do problema;
@@ -195,37 +188,31 @@ O professor, juntamente com os alunos, apresenta noções básicas como:
 
 ## Diálogos Descodificadores
 
-É o momento em que educandos e educadores interpretam criticamente o material produzido.
+É o momento em que educandos e educadores interpretam criticamente o material produzido. No processo de descodificação os alunos explicitam sua consciência real da objetividade. Começam a perceber como atuavam ao viverem a situação analisada, chegam ao que chamamos de percepção da percepção anterior. Começam a ampliar o horizonte de percepção e cada vez mais vão ampliando a sua visão sobre as relações entre uma dimensão e outra da realidade.
 
-Essa é uma etapa decisiva. O professor exibe os registros e conduz a análise coletiva:
-
--   o que o vídeo mostra?;
--   o que ele esconde?;
--   que contradições aparecem?;
+Essa é uma etapa decisiva. O professor exibe os registros e conduz a análise coletiva através das seguintes perguntas:
+-   o que o vídeo mostra?
+-   o que ele esconde?
+-   que contradições aparecem?
 -   que causas estruturais podem estar por trás?
 
-Essa etapa permite sair da aparência imediata e avançar para uma problematização crítica.
+Essa etapa permite sair da aparência imediata e avançar para uma consciência mais crítica.
 
-### Perguntas de Descodificação
+### Exemplos para perguntas de Descodificação:
 
 -   O que aparece com mais força nas imagens?
--   Que problema social está sendo revelado?
--   Isso é um caso isolado ou algo recorrente?
--   Quem ganha e quem perde com essa situação?
--   Como a escola, a comunidade ou o poder público entram nisso?
--   O vídeo reforça apenas questões comportamentais ou ajuda a pensar o problema de forma coletiva?
+-   Qual problema social está sendo revelado?
+-   Isso é um caso isolado ou algo que ocorre com frequência?
 
-### Exemplo de Problematização
+### Exemplos para Problematização
 
-Caso a codificação tenha sido sobre os alunos no trânsito, podem surgir novas discussões:
-
--   os problemas do trânsito são apenas consequência da imprudência?;
--   quais riscos os estudantes identificam no trajeto até a escola?;
--   as vias do bairro são seguras e bem sinalizadas?;
--   quem é responsável pelo trânsito no município?
+Caso a codificação tenha sido sobre os alunos no trânsito, podemos trazer as seguintes questões para descodificação:
+-   Os problemas no trânsito são apenas consequência da imprudência de condutores?
+-   Quais riscos os estudantes identificam no trajeto até a escola?
+-   As vias do bairro são seguras e bem sinalizadas?
+-   Quem é responsável pelo trânsito no município?
 
 ### Produto Esperado
-
 -   Uma síntese crítica do tema em cinco a oito frases.
 
 ::: {.callout-tip collapse="false"}
@@ -248,30 +235,21 @@ Caso o tema fosse a merenda escolar, após observar os registros codificados, a 
 
 ## Redução Temática
 
-A finalidade é delimitar o foco central do vídeo para que ele se torne claro, coerente e pedagogicamente significativo.
+A finalidade é delimitar o núcleo fundamental do vídeo para que ele se torne claro, coerente e pedagogicamente significativo.
 
-Após a discussão, o professor auxilia os estudantes a definir qual aspecto do problema será abordado. Nessa etapa, o tema investigado é recortado para ganhar forma educativa.
+Após a discussão, o professor auxilia os estudantes a definir qual aspecto do problema será abordado. Nessa etapa, o tema investigado é recortado para ganhar forma de aprendizagem.
 
-### Perguntas Norteadoras
-
--   O que aparece com mais força nas imagens?
--   Que problema social está sendo revelado?
--   Isso é um caso isolado ou recorrente?
+### Sugestão de perguntas para Redução Temática
 -   Quem ganha e quem perde com essa situação?
--   Como escola, comunidade e poder público aparecem nesse contexto?
+-   Como escola, a comunidade e o poder público aparecem nesse contexto?
 -   O vídeo contribui para reflexão crítica coletiva?
 
-### Exemplo de Tema
+### Exemplo de Temáticas significativas reduzidas que podem surgir:
+- Identificação dos riscos no trânsito de alunos no trajeto casa-escola
+- O trânsito, em condições seguras, como um direito das pessoas e dever dos órgãos e entidades da administração pública.  
+- Cobrança dos Órgãos de trânsito para a execução de programas, projetos e serviços que garantam o direito do exercício ao trânsito seguro, conforme as leis do país.
 
-“Saúde mental na escola”.
 
-Possíveis recortes:
-
--   pressão por desempenho;
--   excesso de tarefas;
--   falta de escuta;
--   impacto das redes sociais;
--   comparação entre colegas.
 
 ::: {.callout-tip collapse="false"}
 ## Atividade Prática
@@ -296,36 +274,40 @@ Cada grupo completa a frase:
 
 É a etapa de roteirização, edição e finalização do material audiovisual.
 
-Nesse momento, o conteúdo investigado transforma-se em produto didático.
+Nesse momento, o conteúdo investigado é confeccionado em material didático.
 
-### Exemplos de Estrutura para Vídeo Curto
+### Exemplos de estrutura para vídeo curto
 
-#### Modelo 1 — Vídeo Explicativo
-
+#### Modelo 1 — Vídeo curto explicativo 60 segundos
 -   gancho inicial: “Você já percebeu que...?”;
 -   apresentação do problema;
 -   imagens do cotidiano;
 -   falas ou dados curtos;
 -   análise crítica.
 
-#### Modelo 2 — Minidocumentário Curto
-
--   cena inicial de impacto;
--   narração breve;
--   entrevista curta;
--   contraste entre falas e imagens.
-
 ### Exemplo Prático
-
 **Tema:** “Lixo no Bairro”
-
 Roteiro em 60 segundos:
-
 -   0–5s: imagem do problema e pergunta;
 -   5–20s: cenas do entorno;
 -   20–35s: fala de morador ou estudante;
 -   35–50s: interpretação do grupo;
 -   50–60s: proposta de reflexão ou ação.
+
+#### Modelo 2 — Minidocumentário Curto 3 a 5 minutos
+-   cena inicial de impacto;
+-   narração breve;
+-   entrevista curta;
+-   contraste entre falas e imagens.
+### Exemplo Prático
+**Tema:** “Saúde mental na escola”.
+Possíveis recortes:
+-   0-1m: Imagens com legendas que desmonstrem a pressão por desempenho de professores e alunos;
+-   1-2m: Imagens que representem o excesso de tarefas colocados aos alunos com fundo musical;
+-   2-3m: Cenas de alunos na escola representando a falta de escuta com narração;
+-   3-4m: Cenas de alunos no celular para retratra o impacto das redes sociais na saúde mental;
+-   4-5m: A competição por notas entre colegas de sala que influenciam no problema.
+
 
 ::: {.callout-tip collapse="false"}
 ## Atividade Prática
@@ -339,7 +321,6 @@ Sem depender de recursos complexos, os alunos podem utilizar editores simples de
 -   inserir trilha sonora sem prejudicar a compreensão das falas.
 
 ### Produto Esperado
-
 -   Vídeo finalizado.
 :::
 
@@ -381,7 +362,7 @@ Cada equipe responde:
 - Exibição, autoavaliação e debate final.
 
 
-### Vídeo Documental
+### Vídeo Documental produzido por alunos do Ensino Médio
 
 ![](images/whatsapp-video-2026-05-13-at-092529_0PFoxwab-03.mp4){fig-align="center"}
 
