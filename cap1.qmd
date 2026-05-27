@@ -21,7 +21,7 @@ Seus objetivos educacionais centrais incluem romper com a educação “bancári
 - **Leitura Crítica da Realidade**: Partir do contexto vivido pelo aluno.
 - **Articulação Teoria-Prática**: Integração entre conhecimento e realidade.
 - **Passagem da Ingenuidade à Criticidade**.
-- **Protagonismo Estudantil**.
+- **Autonomia Estudantil**.
 
 ::: {.callout-tip collapse="false"}
 **EM SÍNTESE:** A Metodologia da Transitividade utiliza a investigação do cotidiano para promover uma leitura crítica da realidade e fortalecer a autonomia intelectual dos estudantes.
