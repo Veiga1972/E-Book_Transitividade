@@ -38,6 +38,8 @@ Esse movimento aparece como um momento de aproximação e escuta, coerente com o
 - Quais outras situações seriam mais importantes?
 
 
+\newpage
+
 ### Exemplo de Atividade em Sala
 
 Cada equipe escreve em um post-it ou formulário:
@@ -62,6 +64,8 @@ Cada equipe escreve em um post-it ou formulário:
 Dialogar com os alunos significa incentivá-los a observar a realidade de forma mais atenta, saindo de opiniões genéricas e avançando para observações concretas.
 
 ![](fig10.jpg){fig-align="center" width="40%"}
+
+
 
 O professor conduz uma atividade de leitura do espaço escolar ou do entorno. O importante aqui é deslocar o olhar:
 
@@ -186,6 +190,8 @@ O professor, juntamente com os alunos, discutem as noções básicas de:
 ::::
 :::::
 
+
+\newpage
 ## Diálogos Descodificadores
 
 É o momento em que educandos e educadores interpretam criticamente o material produzido. No processo de descodificação os alunos explicitam sua consciência real da objetividade. Começam a perceber como atuavam ao viverem a situação analisada, chegam ao que chamamos de percepção da percepção anterior. Começam a ampliar o horizonte de percepção e cada vez mais vão ampliando a sua visão sobre as relações entre uma dimensão e outra da realidade.
@@ -233,6 +239,8 @@ Caso o tema fosse a merenda escolar, após observar os registros codificados, a 
 ::::
 :::::
 
+
+
 ## Redução Temática
 
 A finalidade é delimitar o núcleo fundamental do vídeo para que ele se torne claro, coerente e pedagogicamente significativo.
@@ -258,10 +266,11 @@ Cada grupo completa a frase:
 
 > “Nosso vídeo vai mostrar que \_\_\_\_\_\_\_\_\_\_, porque observamos \_\_\_\_\_\_\_\_\_\_, e queremos que o público reflita sobre \_\_\_\_\_\_\_\_\_\_.”
 
+:::
+
 ### Produto Esperado
 
--   Tema final com a mensagem central do vídeo.
-:::
+- Tema final com a mensagem central do vídeo.
 
 ::::: {.content-visible when-format="html"}
 :::: progress
@@ -269,6 +278,11 @@ Cada grupo completa a frase:
 :::
 ::::
 :::::
+
+
+
+
+\newpage
 
 ## Desenvolvimento em Sala de Aula
 
@@ -279,34 +293,44 @@ Nesse momento, o conteúdo investigado é confeccionado em material didático.
 ### Exemplos de estrutura para vídeo curto
 
 #### Modelo 1 — Vídeo curto explicativo 60 segundos
--   gancho inicial: “Você já percebeu que...?”;
--   apresentação do problema;
--   imagens do cotidiano;
--   falas ou dados curtos;
--   análise crítica.
+
+- gancho inicial: “Você já percebeu que...?”;
+- apresentação do problema;
+- imagens do cotidiano;
+- falas ou dados curtos;
+- análise crítica.
 
 ### Exemplo Prático
+
 **Tema:** “Lixo no Bairro”
+
 Roteiro em 60 segundos:
--   0–5s: imagem do problema e pergunta;
--   5–20s: cenas do entorno;
--   20–35s: fala de morador ou estudante;
--   35–50s: interpretação do grupo;
--   50–60s: proposta de reflexão ou ação.
+- 0–5s: imagem do problema e pergunta;
+- 5–20s: cenas do entorno;
+- 20–35s: fala de morador ou estudante;
+- 35–50s: interpretação do grupo;
+- 50–60s: proposta de reflexão ou ação.
 
 #### Modelo 2 — Minidocumentário Curto 3 a 5 minutos
--   cena inicial de impacto;
--   narração breve;
--   entrevista curta;
--   contraste entre falas e imagens.
+- cena inicial de impacto;
+- narração breve;
+- entrevista curta;
+- contraste entre falas e imagens.
+
+
+\newpage
+
 ### Exemplo Prático
+
 **Tema:** “Saúde mental na escola”.
+
 Possíveis recortes:
--   0-1m: Imagens com legendas que desmonstrem a pressão por desempenho de professores e alunos;
--   1-2m: Imagens que representem o excesso de tarefas colocados aos alunos com fundo musical;
--   2-3m: Cenas de alunos na escola representando a falta de escuta com narração;
--   3-4m: Cenas de alunos no celular para retratra o impacto das redes sociais na saúde mental;
--   4-5m: A competição por notas entre colegas de sala que influenciam no problema.
+
+- 0-1m: Imagens com legendas que desmonstrem a pressão por desempenho de professores e alunos;
+- 1-2m: Imagens que representem o excesso de tarefas colocados aos alunos com fundo musical;
+- 2-3m: Cenas de alunos na escola representando a falta de escuta com narração;
+- 3-4m: Cenas de alunos no celular para retratra o impacto das redes sociais na saúde mental;
+- 4-5m: A competição por notas entre colegas de sala que influenciam no problema.
 
 
 ::: {.callout-tip collapse="false"}
@@ -319,10 +343,11 @@ Sem depender de recursos complexos, os alunos podem utilizar editores simples de
 -   adicionar títulos;
 -   organizar a sequência das imagens;
 -   inserir trilha sonora sem prejudicar a compreensão das falas.
+:::
 
 ### Produto Esperado
 -   Vídeo finalizado.
-:::
+
 
 ::::: {.content-visible when-format="html"}
 :::: progress
@@ -330,6 +355,10 @@ Sem depender de recursos complexos, os alunos podem utilizar editores simples de
 :::
 ::::
 :::::
+
+
+
+\newpage
 
 ## Apresentação dos Vídeos e Avaliação
 

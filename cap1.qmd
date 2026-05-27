@@ -1,11 +1,9 @@
-::: {.content-visible when-format="html"}
-
+::::: {.content-visible when-format="html"}
 :::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 ::::
-
-:::
+:::::
 
 # O Que é a Metodologia da Transitividade
 
@@ -15,36 +13,23 @@ A Metodologia da Transitividade é uma proposta pedagógica, de forte inspiraç�
 
 Seus objetivos educacionais centrais incluem romper com a educação “bancária”, integrar o currículo escolar à vida real dos educandos e formar sujeitos capazes de analisar e intervir em sua realidade.
 
+\newpage
+
 ## Princípios Centrais
 
-- **Diálogo**: Relação horizontal entre educador e educando.
-- **Leitura Crítica da Realidade**: Partir do contexto vivido pelo aluno.
-- **Articulação Teoria-Prática**: Integração entre conhecimento e realidade.
-- **Passagem da Ingenuidade à Criticidade**.
-- **Autonomia Estudantil**.
+-   **Diálogo**: Relação horizontal entre educador e educando.
+-   **Leitura Crítica da Realidade**: Partir do contexto vivido pelo aluno.
+-   **Articulação Teoria-Prática**: Integração entre conhecimento e realidade.
+-   **Passagem da Ingenuidade à Criticidade**.
+-   **Autonomia Estudantil**.
 
 ::: {.callout-tip collapse="false"}
 **EM SÍNTESE:** A Metodologia da Transitividade utiliza a investigação do cotidiano para promover uma leitura crítica da realidade e fortalecer a autonomia intelectual dos estudantes.
 :::
 
-
-
-
-::: {.content-visible when-format="html"}
-
+::::: {.content-visible when-format="html"}
 :::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 ::::
-
-:::
-
-
-
-
-
-
-
-
-
-
+:::::
